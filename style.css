@@ -1,0 +1,40 @@
+<style>
+
+#head {
+  margin-bottom: 20px;
+  text-align: center;
+  width: 920px;
+  padding: 20px;
+  background-color: #ebebeb;
+}
+#nav {
+  margin-bottom: 20px;
+  text-align: center;
+  width: 920px;
+  padding: 20px;
+  background-color: #ebebeb;
+}
+#sect {
+  float:left;
+  text-align: center;
+  margin:20px;
+  width:455px;
+  background-color: #ebebeb;
+}
+#article {
+  background-color: #777;
+  text-align: center;
+  color:#ebebeb;
+}
+#h {
+}
+#p {
+
+}
+#asid {
+
+}
+footer{
+
+}
+</style>
